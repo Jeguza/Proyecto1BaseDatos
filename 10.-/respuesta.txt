@@ -1,0 +1,2 @@
+¿Cuál  es  el  tiempo  promedio  de  ejecución  de  todas  las  películas  en  el  DB  de  sakila?
+115.6554455445544554 minutos

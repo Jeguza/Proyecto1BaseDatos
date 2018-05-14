@@ -1,0 +1,4 @@
+Consulta  que  regrese  todas  las  direcciones  sin  teléfonos
+1;"47 MySakila Drive";"";"Alberta";300;"";"";"2006-02-15 09:45:30"
+2;"28 MySQL Boulevard";"";"QLD";576;"";"";"2006-02-15 09:45:30"
+
