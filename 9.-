@@ -1,0 +1,2 @@
+SELECT return_date FROM rental WHERE inventory_id=(SELECT inventory_id FROM inventory
+WHERE film_id=(SELECT film_id FROM film WHERE title='Academy Dinosaur') LIMIT 1);
